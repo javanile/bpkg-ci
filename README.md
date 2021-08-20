@@ -1,5 +1,4 @@
-# bpkg-ci
-
+# BPKG/CI
 
 ### Short url
 
