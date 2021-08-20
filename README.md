@@ -1,5 +1,7 @@
 # BPKG/CI
 
+The power of BPKG on your CI/CD pipelines and workflow
+
 ### Short url
 
 ```bash
